@@ -1,6 +1,6 @@
 {
   "name": "typographic-math-symbols",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Use real symbols, not alphabetic characters",
   "main": "index.es5.js",
   "scripts": {
