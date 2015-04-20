@@ -24,3 +24,11 @@ it('Should fix much less than', ()=> {
 it('Should fix much greater than', ()=> {
   equal(math(`999999 >> 5`), `999999 ≫ 5`);
 });
+
+it('Should fix plus or minus', ()=> {
+  equal(math(`5 +- 1`), `5 ± 1`);
+});
+
+it('Should fix minus or plus', ()=> {
+  equal(math(`10 -+ 1`), `10 ∓ 1`);
+});
