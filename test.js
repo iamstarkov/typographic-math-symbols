@@ -8,3 +8,19 @@ it('Should fix multiply symbol', ()=> {
 it('Should fix minus symbol', ()=> {
   equal(math(`3 - 2 = 1`), `3 − 2 = 1`);
 });
+
+it('Should fix less-than or equal to', ()=> {
+  equal(math(`3 <= 2`), `3 ≤ 2`);
+});
+
+it('Should fix greater-than or equal to', ()=> {
+  equal(math(`4 >= 4`), `4 ≥ 4`);
+});
+
+it('Should fix much less than', ()=> {
+  equal(math(`2 << 10000`), `2 ≪ 10000`);
+});
+
+it('Should fix much greater than', ()=> {
+  equal(math(`999999 >> 5`), `999999 ≫ 5`);
+});
