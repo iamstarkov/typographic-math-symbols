@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matmuchrapna/typographic-math-symbols"
+    "url": "https://github.com/vladimirstarkov/typographic-math-symbols"
   },
   "keywords": [
     "typographic",
@@ -26,9 +26,9 @@
   "author": "Vladimir Starkov <matmuchrapna@gmail.com> (http://vstarkov.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matmuchrapna/typographic-math-symbols/issues"
+    "url": "https://github.com/vladimirstarkov/typographic-math-symbols/issues"
   },
-  "homepage": "https://github.com/matmuchrapna/typographic-math-symbols",
+  "homepage": "https://github.com/vladimirstarkov/typographic-math-symbols",
   "devDependencies": {
     "babel": "^5.0.0",
     "coveralls": "^2.11.2",
