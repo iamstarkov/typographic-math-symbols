@@ -23,16 +23,15 @@ npm install --save typographic-math-symbols
 ```js
 var math = require('typographic-math-symbols');
 
-math(`2 x 3 = 6`); // 2 × 3 = 6
-math(`3 - 2 = 1`); // 3 − 2 = 1
+math(`2 x 3 = 6`);  // 2 × 3 = 6
+math(`3 - 2 = 1`);  // 3 − 2 = 1
+math(`3 <= 2`);     // 3 ≤ 2
+math(`4 >= 4`);     // 4 ≥ 4
+math(`5 +- 1`);     // 5 ± 1
+math(`10 -+ 1`);    // 10 ∓ 1
+math(`2 << 100`);   // 2 ≪ 10000
+math(`999 >> 5`);   // 999999 ≫ 5
 ```
-
-
-## Real world examples
-
-Check complex usage with real world examples in [typographic playground][playground].
-
-[playground]: https://github.com/matmuchrapna/typographic-playground
 
 
 ## License
@@ -45,14 +44,14 @@ MIT © [Vladimir Starkov](http://vstarkov.com/)
 [npm-url]: https://npmjs.org/package/typographic-math-symbols
 [npm-image]: http://img.shields.io/npm/v/typographic-math-symbols.svg
 
-[travis-url]: https://travis-ci.org/matmuchrapna/typographic-math-symbols
-[travis-image]: http://img.shields.io/travis/matmuchrapna/typographic-math-symbols.svg
+[travis-url]: https://travis-ci.org/vladimirstarkov/typographic-math-symbols
+[travis-image]: http://img.shields.io/travis/vladimirstarkov/typographic-math-symbols.svg
 
-[coveralls-url]: https://coveralls.io/r/matmuchrapna/typographic-math-symbols
-[coveralls-image]: http://img.shields.io/coveralls/matmuchrapna/typographic-math-symbols.svg
+[coveralls-url]: https://coveralls.io/r/vladimirstarkov/typographic-math-symbols
+[coveralls-image]: http://img.shields.io/coveralls/vladimirstarkov/typographic-math-symbols.svg
 
-[depstat-url]: https://david-dm.org/matmuchrapna/typographic-math-symbols
-[depstat-image]: https://david-dm.org/matmuchrapna/typographic-math-symbols.svg
+[depstat-url]: https://david-dm.org/vladimirstarkov/typographic-math-symbols
+[depstat-image]: https://david-dm.org/vladimirstarkov/typographic-math-symbols.svg
 
-[depstat-dev-url]: https://david-dm.org/matmuchrapna/typographic-math-symbols
-[depstat-dev-image]: https://david-dm.org/matmuchrapna/typographic-math-symbols/dev-status.svg
+[depstat-dev-url]: https://david-dm.org/vladimirstarkov/typographic-math-symbols
+[depstat-dev-image]: https://david-dm.org/vladimirstarkov/typographic-math-symbols/dev-status.svg
