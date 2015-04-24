@@ -10,7 +10,7 @@ it('Should fix minus symbol', ()=> {
 });
 
 it('Should fix less-than or equal to', ()=> {
-  equal(math(`3 <= 2`), `3 ≤ 2`);
+  equal(math(`3 =< 2`), `3 ≤ 2`);
 });
 
 it('Should fix greater-than or equal to', ()=> {

@@ -25,7 +25,7 @@ var math = require('typographic-math-symbols');
 
 math(`2 x 3 = 6`);  // 2 × 3 = 6
 math(`3 - 2 = 1`);  // 3 − 2 = 1
-math(`3 <= 2`);     // 3 ≤ 2
+math(`3 =< 2`);     // 3 ≤ 2
 math(`4 >= 4`);     // 4 ≥ 4
 math(`5 +- 1`);     // 5 ± 1
 math(`10 -+ 1`);    // 10 ∓ 1
