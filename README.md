@@ -44,14 +44,14 @@ MIT © [Vladimir Starkov](http://vstarkov.com/)
 [npm-url]: https://npmjs.org/package/typographic-math-symbols
 [npm-image]: http://img.shields.io/npm/v/typographic-math-symbols.svg
 
-[travis-url]: https://travis-ci.org/vladimirstarkov/typographic-math-symbols
-[travis-image]: http://img.shields.io/travis/vladimirstarkov/typographic-math-symbols.svg
+[travis-url]: https://travis-ci.org/iamstarkov/typographic-math-symbols
+[travis-image]: http://img.shields.io/travis/iamstarkov/typographic-math-symbols.svg
 
-[coveralls-url]: https://coveralls.io/r/vladimirstarkov/typographic-math-symbols
-[coveralls-image]: http://img.shields.io/coveralls/vladimirstarkov/typographic-math-symbols.svg
+[coveralls-url]: https://coveralls.io/r/iamstarkov/typographic-math-symbols
+[coveralls-image]: http://img.shields.io/coveralls/iamstarkov/typographic-math-symbols.svg
 
-[depstat-url]: https://david-dm.org/vladimirstarkov/typographic-math-symbols
-[depstat-image]: https://david-dm.org/vladimirstarkov/typographic-math-symbols.svg
+[depstat-url]: https://david-dm.org/iamstarkov/typographic-math-symbols
+[depstat-image]: https://david-dm.org/iamstarkov/typographic-math-symbols.svg
 
-[depstat-dev-url]: https://david-dm.org/vladimirstarkov/typographic-math-symbols
-[depstat-dev-image]: https://david-dm.org/vladimirstarkov/typographic-math-symbols/dev-status.svg
+[depstat-dev-url]: https://david-dm.org/iamstarkov/typographic-math-symbols
+[depstat-dev-image]: https://david-dm.org/iamstarkov/typographic-math-symbols/dev-status.svg
