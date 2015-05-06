@@ -36,7 +36,7 @@ math(`999 >> 5`);   // 999999 ≫ 5
 
 ## License
 
-MIT © [Vladimir Starkov](http://iamstarkov.com/)
+MIT © [Vladimir Starkov](https://iamstarkov.com/)
 
 [rtfm]: http://practicaltypography.com/math-symbols.html
 [habits]: http://practicaltypography.com/typewriter-habits.html
